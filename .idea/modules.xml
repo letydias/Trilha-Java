@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estruturas Condicionais em Java/Estruturas Condicionais em Java.iml" filepath="$PROJECT_DIR$/Estruturas Condicionais em Java/Estruturas Condicionais em Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Sintaxe2/Java Sintaxe.iml" filepath="$PROJECT_DIR$/Java Sintaxe2/Java Sintaxe.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trilha Java.iml" filepath="$PROJECT_DIR$/Trilha Java.iml" />
     </modules>
