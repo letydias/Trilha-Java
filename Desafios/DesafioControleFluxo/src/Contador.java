@@ -11,7 +11,7 @@ public class Contador {
         try {
             contar(parametroUm, parametroDois);
         }
-        catch (ParametrosInvalidosException) {
+        catch (ParametrosInvalidosException e) {
             System.out.println("O segundo parâmetro deve ser maior que o primeiro");
         }
 
@@ -21,8 +21,8 @@ public class Contador {
             throw new ParametrosInvalidosException();
         }
         int contagem = parametroDois - parametroUm;
-        for (int x=0;x<=contagem;x++){
-            System.out.println("imprimindo o número "+ x);
+        for (int x=1;x<=contagem;x++){
+            System.out.println("Imprimindo o número "+ x);
         }
         //realizar o for para imprimir os números com base na variável contagem
     }
