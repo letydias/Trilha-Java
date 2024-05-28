@@ -7,6 +7,8 @@ sua execução.
 É responsabilidade do programador prever as exceções e fazer o chamado
 **_tratamento de exceções_**.
 
+É possível criar sua própria exceção, porém já existem algumas pré definidas na sintaxe da linguagem.
+
 ## Try/Catch
 Tratamento de exceções
 E quando inevitavelmente, ocorrer uma exceção? Como nós desenvolvedores podemos ajustar o nosso algoritmo para amenizar o ocorrido?
@@ -36,5 +38,4 @@ catch(Exception e) {// precisamos saber qual exceção
 
 Exemplo no arquivo [AboutMe.java](AboutMe.java).
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+
