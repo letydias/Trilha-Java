@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/Desafios/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/Desafios/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Desafios.iml" filepath="$PROJECT_DIR$/Desafios/Desafios.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturas Condicionais em Java/Estruturas Condicionais em Java.iml" filepath="$PROJECT_DIR$/Estruturas Condicionais em Java/Estruturas Condicionais em Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturas Excepcionais/Estruturas Excepcionais.iml" filepath="$PROJECT_DIR$/Estruturas Excepcionais/Estruturas Excepcionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estruturas de Repeticao/Estruturas de Repeticao.iml" filepath="$PROJECT_DIR$/Estruturas de Repeticao/Estruturas de Repeticao.iml" />
