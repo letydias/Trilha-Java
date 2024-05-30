@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Condições, Loops e Exceções na Prática com Java/Condições, Loops e Exceções na Prática com Java.iml" filepath="$PROJECT_DIR$/Desafios/Condições, Loops e Exceções na Prática com Java/Condições, Loops e Exceções na Prática com Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafios/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/Desafios/ContaBanco/ContaBanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafios/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/Desafios/DesafioControleFluxo/DesafioControleFluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafios/Desafios.iml" filepath="$PROJECT_DIR$/Desafios/Desafios.iml" />
